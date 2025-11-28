@@ -9,6 +9,17 @@
     font-size: 4rem;
     line-height: 5rem;
   }
+
+  .trending-now .left-side .buttons .left,
+  .trending-now .left-side .buttons .right {
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding: 1rem 2rem;
+  }
+  .trending-now .left-side .buttons img {
+    width: 1.5rem;
+    margin-right: 0.5rem;
+  }
   /*  LATEST ARTICLES الجزء الثالث  */
   /* left-side */
   .latest-articles .left-side .text-head {

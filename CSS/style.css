@@ -182,8 +182,7 @@ button {
   box-shadow: 0.2rem 0.2rem black;
 }
 .trending-now .left-side .buttons img {
-  width: 1.5rem;
-  margin-right: 0.5rem;
+  width: 1rem;
 }
 .trending-now .left-side .buttons {
   display: flex;
@@ -193,9 +192,9 @@ button {
   width: fit-content;
   background-color: black;
   color: #fff;
-  font-size: 1.25rem;
-  font-weight: 700;
-  padding: 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
   border: solid black;
   box-shadow: 0.3rem 0.3rem black;
   margin-right: 20px;
@@ -205,9 +204,9 @@ button {
   width: fit-content;
   background-color: white;
   color: black;
-  font-size: 1.25rem;
-  font-weight: 700;
-  padding: 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
   border: solid black;
   box-shadow: 0.3rem 0.3rem black;
   transition: all 0.2s;
