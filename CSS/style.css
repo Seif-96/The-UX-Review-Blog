@@ -84,6 +84,7 @@ button {
 }
 .nav-body .icon img {
   width: 1rem;
+  display: none;
 }
 /* /////// */
 .header a:hover {
@@ -94,9 +95,10 @@ button {
   background-color: #ffd15b;
   font-weight: 700;
   border-radius: 1.2rem;
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 0.7rem;
   border: 0.15rem solid;
   transition: all 0.2s;
+  font-size: 0.75rem;
 }
 .nav-body button.navbar-toggler {
   background-color: transparent;
@@ -109,7 +111,7 @@ button {
 /*background  */
 .trending-now {
   background-color: #fff085;
-  padding-top: 10rem;
+  padding-top: 7.5rem;
   padding-bottom: 4rem;
   border-bottom: 0.3rem solid;
   position: relative;

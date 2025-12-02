@@ -1,6 +1,20 @@
-/* @media (min-width: 800px) */
+/* @media (min-width: 768px) */
 @media (min-width: 768px) {
   /* navbar */
+  .nav-body .icon img {
+    width: 1rem;
+    display: inline;
+  }
+  .nav-body button.btn-style {
+    background-color: #ffd15b;
+    font-weight: 700;
+    border-radius: 1.2rem;
+    padding: 0.5rem 1rem;
+    border: 0.15rem solid;
+    transition: all 0.2s;
+    font-size: 1rem;
+  }
+
   .nav-body ul li a {
     font-size: 1rem;
   }
