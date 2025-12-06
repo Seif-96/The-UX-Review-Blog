@@ -546,8 +546,10 @@ button {
   background-color: #dab2ff;
 }
 /*   <!--THE AUTHORS الجزء الرابع  --> */
-.the-authors {
+.theAuthors {
   background-color: #ffd230;
+}
+.the-authors {
   padding-top: 5rem;
   padding-bottom: 64px;
   border-bottom: 0.13rem solid;
